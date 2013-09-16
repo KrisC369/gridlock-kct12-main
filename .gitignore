@@ -1,1 +1,10 @@
-target/
+# Mac OS X specific entries
+.DS_Store
+
+# Maven target directories
+*/target
+
+# Netbeans configuration files
+*/nb-configuration.xml
+/.settings/
+.project

@@ -1,0 +1,15 @@
+[submodule "gridlock"]
+	path = gridlock
+	url = git@github.com:KrisC369/gridlock.git
+[submodule "gridlock-kct12-dmas"]
+	path = gridlock-kct12-dmas
+	url = git@github.com:KrisC369/gridlock-kct12-dmas.git
+[submodule "gridlock-kct12-util"]
+	path = gridlock-kct12-util
+	url = git@github.com:KrisC369/gridlock-kct12-util.git
+[submodule "gridlock-case1"]
+	path = gridlock-case1
+	url = git@github.com:KrisC369/gridlock-case1.git
+[submodule "gridlock-kct12-gui"]
+	path = gridlock-kct12-gui
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-kct12-gui.git
